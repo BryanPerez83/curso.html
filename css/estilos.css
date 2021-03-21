@@ -1,0 +1,25 @@
+span{color:blue;}
+p{color:rgb(255, 39, 114);}
+body{background: rgb(92, 224, 194);}
+
+.texto
+front: size 30px;
+
+#parrafo{
+ font: size 60px;
+ color: royalblue;
+}
+
+p.caja{
+    border:3px solid red;
+    margin: 30px 50px 10px 50px;
+    margin: 30px 50px;
+    margin: ;
+    margin: 40px;
+}
+
+    
+
+p.box{
+    border:3px dashed blue;
+}
